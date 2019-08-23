@@ -1,15 +1,18 @@
-#Trycorder
-<a href="https://f-droid.org/repository/browse/?fdid=net.ddns.mlsoftlaberge.trycorder" target="_blank">
-  <img src="https://f-droid.org/badge/get-it-on.png" height="60"/>
+# Trycorder
+
+<a href="https://f-droid.org/packages/net.ddns.mlsoftlaberge.trycorder">
+    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+    alt="Get it on F-Droid"
+    height="80">
 </a>
 
-<BR>
+<br>
 
 <a href="https://forum.xda-developers.com/android/apps-games/trycorder-public-project-t3391155" target="_blank">
   Available on XDA-Developpers
 </a>
 
-##Introduction
+## Introduction
 
 For the non-trekkies, a Trycorder is a portable measuring tool, communication tool, and remote-control tool for your Starship. It has been used a lot in many very popular Science-Fiction TV serie and Movies.
 
@@ -17,11 +20,11 @@ This is an itch I had to scratch for a long time.
 
 I wanted a full fledged trycorder without announcements, free as a beer, and free public code.
 
-I did'nt found what i was searching for, so I made one. 
+I didn't found what i was searching for, so I made one. 
 
 The wish to have a full trycorder was so strong, I had to Learn Java, Learn Android-Studio, Learn Android Programming, starting with a classic "Hello World!" program, Learn Activities, Fragments, Permissions,  and the rest, and all of this Before I started a single line of my project.
 
-After 3 long and painful months, I finally started the project, and drived it to a version 1.0, where I decided to share my fun with others.
+After 3 long and painful months, I finally started the project, and drove it to a version 1.0, where I decided to share my fun with others.
 
 With this Trycorder, You can do the following:
 - Look, feel, and sound like the federation trycorder.
@@ -42,19 +45,21 @@ With this Trycorder, You can do the following:
 The Main Intelligence of the central server can respond to you.
 - And many more to come ...
 
-##Installation
+## Installation
+
 To install download the APK, and install it by clicking on it after the download (in your Download directory on your phone, using your phone file manager)
  or 
 Download the sources on github and have fun with android studio. (github.org/mlsoft)
 
-##Tested on
+## Tested on
+
  - Samsung Galaxy Nexus (GT-I9250): CyanogenMod 6.0.1, CyanogenMod 5.1.1
  - Motorola Moto-G (XT-1032): CyanogenMod 6.0.1, CyanogenMod 4.4.4, CyanogenMod-7.1
  - Samsung Ace-II (GT-S7560M): CyanogenMod 4.4.4
  - LG P705g: Stock 4.0.3 (unrooted plain stock)
  - Tablet Datawind 7Ci, Android-4.1
 
-Please tell me of your success so i can add to the list of tested phones.
+Please tell me of your success so I can add to the list of tested phones.
 
 Remember: Every button has a function, and every surface is used and clickable. some functions may not be obvious, like speech recognition that you activate by clicking in the top left corner in the curve. (just try "computer fire" , "computer beam me up", "computer shields" , or read the source code for a complete list of words who trigger actions.)
 
@@ -62,17 +67,20 @@ The trycorder contains more than 100 operating buttons, 15 animations, dozens of
 
 Have FUN !!! 
 
-For those who have a Force-Close on first opening, make sure your android device is setup this way.
-Have Google Text-to-Speech installed and running in default us-english (and more if you need)
-Have Google voice recognition active for us-english (and more if you need)
-Have Google map installed (optionnal but nice to locate yourself on the current planet)
-Have Location service Enabled (GPS)
-Have Wifi operationnal (for info about your internet connection in the info panel, and location service)
-Allow all six permissions that the application ask for.
+## Troubleshooting
 
-Developpers
-For those who write android code too, this trycorder is made of hundreds of differents examples
-in the differents forums i follow. This is a good example of over-populated buttons groups, with a lot of
+For those who have a Force-Close on first opening, make sure your android device is setup this way:
+ - Have Google Text-to-Speech installed and running in default us-english (and more if you need)
+ - Have Google voice recognition active for us-english (and more if you need)
+ - Have Google map installed (optional but nice to locate yourself on the current planet)
+ - Have Location service Enabled (GPS)
+ - Have Wifi operational (for info about your internet connection in the info panel, and location service)
+ - Allow all six permissions that the application ask for.
+
+## Developers
+
+For those who write android code too, this trycorder is made of hundreds of different examples
+in the different forums I follow. This is a good example of over-populated buttons groups, with a lot of
 examples applications all mixed together, trying to look like to a useful tool.
 
 This fantastic tool, helped me learn everything (hum! almost) in android where I had an itch for.
